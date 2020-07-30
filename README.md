@@ -1,3 +1,4 @@
 # hamoye
 hamoye internship codes
-### stage A quiz solution (hamoye.ipynb)
+### hamoye = stage A quiz solution (hamoye.ipynb)
+### hamoye regression = study code
